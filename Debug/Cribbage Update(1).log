@@ -1,0 +1,45 @@
+﻿Build started 10/6/2019 2:06:02 PM.
+     1>Project "D:\Cribbage Update\Cribbage Update\Cribbage Update.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         D:\BackupImage\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp
+         game.cpp
+     1>d:\cribbage update\cribbage update\game.cpp(14): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\cribbage update\cribbage update\game.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\backupimage\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\cribbage update\cribbage update\game.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\backupimage\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\cribbage update\cribbage update\game.cpp(62): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(62): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(66): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(66): warning C4804: '>' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(70): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(70): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(74): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(74): warning C4804: '>' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(78): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(78): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(82): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(82): warning C4804: '>' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(86): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(86): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(90): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(90): warning C4804: '>' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(94): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(94): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(98): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(98): warning C4804: '>' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(102): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(102): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(106): warning C4806: '==' : unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+     1>d:\cribbage update\cribbage update\game.cpp(106): warning C4804: '<' : unsafe use of type 'bool' in operation
+     1>d:\cribbage update\cribbage update\game.cpp(168): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\backupimage\vc\include\conio.h(131) : see declaration of 'getch'
+     1>d:\cribbage update\cribbage update\game.cpp(25): warning C4101: 'hands_1' : unreferenced local variable
+     1>d:\cribbage update\cribbage update\game.cpp(48): warning C4700: uninitialized local variable 'handful' used
+     1>d:\cribbage update\cribbage update\game.cpp(62): warning C4700: uninitialized local variable 'hands_6' used
+     1>d:\cribbage update\cribbage update\game.cpp(68): warning C4700: uninitialized local variable 'handful1' used
+     1>Done Building Project "D:\Cribbage Update\Cribbage Update\Cribbage Update.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.83
